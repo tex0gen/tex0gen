@@ -13,11 +13,11 @@ Steve, full time web developer located in the UK (Kent).
 The following are up-to-date links to sites I've completed.
 
 ## Side Projects
-https://tex0gen.github.io/spotiset/
+https://tex0gen.github.io/spotiset/<br />
 https://fortnite1v1.me/
 
 ## Freelance
-https://bigatmo.com/
+https://bigatmo.com/<br />
 https://farmlocations.co.uk/
 
 ## Under Agency (Working Alone)
