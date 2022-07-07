@@ -1,5 +1,5 @@
 # Who Am I?
-Steve, founder of Logicore https://logicore.tech/ and web developer located in the UK (Kent). I specialise in bespoke WordPress theme and plugin development primarily but also do mobile app development and SaaS/PaaS applications.
+Steve, founder of Logicore https://logicore.tech/ and freelance web developer https://freelancedeveloperkent.co.uk/ located in the UK (Kent) . I specialise in bespoke WordPress theme and plugin development primarily but also do mobile app development and SaaS/PaaS applications.
 
 I've worked with a number of well known companies and individuals including but not limited to:
 - Ferrari
