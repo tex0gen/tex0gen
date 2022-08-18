@@ -23,6 +23,7 @@ https://tex0gen.github.io/spotiset/<br />
 https://fortnite1v1.me/
 
 ## Freelance
+https://adoreboard.com/<br />
 https://bigatmo.com/<br />
 https://wealdenliteraryfestival.co.uk/<br />
 https://collinshoy.com/<br />
@@ -32,9 +33,3 @@ https://managedlei.com/<br />
 https://biopelletsolutions.co.uk/<br />
 https://bodypownow.com/<br />
 https://supplementfactoryuk.com/
-
-## Under Agency (Single Developer)
-https://www.callflow.co.uk/<br />
-https://www.wahl.co.uk/<br />
-https://thisisbeacon.com/<br />
-https://bronze.ai/
