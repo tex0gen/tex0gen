@@ -23,6 +23,7 @@ https://tex0gen.github.io/spotiset/<br />
 https://fortnite1v1.me/
 
 ## Freelance
+[Steve Barber Wedding Photography in Kent](https://stevebarberphotography.com)
 https://adoreboard.com/<br />
 https://bigatmo.com/<br />
 https://wealdenliteraryfestival.co.uk/<br />
