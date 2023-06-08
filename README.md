@@ -32,5 +32,5 @@ https://theownerbreeder.com/<br />
 https://farmlocations.co.uk/<br />
 https://managedlei.com/<br />
 https://biopelletsolutions.co.uk/<br />
-https://bodypownow.com/<br />
+
 https://supplementfactoryuk.com/
