@@ -1,11 +1,12 @@
 # Who Am I?
-Steve North, freelance web developer https://freelancedeveloperkent.co.uk/ located in the UK (Kent) . I specialise in bespoke WordPress theme and plugin development primarily but also do mobile app development and SaaS/PaaS applications.
+Steve North, [Freelance WordPress Developer](https://freelancedeveloperkent.co.uk/) located in the UK (Kent). I specialise in bespoke WordPress theme and plugin development primarily but also do mobile app development and SaaS/PaaS applications.
 
-I've worked with a number of well known companies and individuals including but not limited to:
+I've worked with a number of well-known companies and individuals including but not limited to:
 - Ferrari
-- Masserati
+- Maserati
 - Piaggio
 - Jessie Pavelka
+- Wahl UK
 
 # Technologies
 - HTML
@@ -23,14 +24,16 @@ https://tex0gen.github.io/spotiset/<br />
 https://fortnite1v1.me/
 
 ## Freelance
-[Steve Barber Wedding Photography in Kent](https://stevebarberphotography.com)
-https://adoreboard.com/<br />
-https://bigatmo.com/<br />
-https://wealdenliteraryfestival.co.uk/<br />
-https://collinshoy.com/<br />
-https://theownerbreeder.com/<br />
-https://farmlocations.co.uk/<br />
-https://managedlei.com/<br />
-https://biopelletsolutions.co.uk/<br />
-
-https://supplementfactoryuk.com/
+[Sync Global Agency](https://wearesync.global)<br />
+[Steve Barber Wedding Photography in Kent](https://stevebarberphotography.com)<br />
+[Adoreboard](https://adoreboard.com/)<br />
+[Coole Swan - Alcoholic Beverage](https://cooleswan.com/)<br />
+[Bigatmo Sunglasses](https://bigatmo.com/)<br />
+[Wealden Literary Festival](https://wealdenliteraryfestival.co.uk/)<br />
+[Collins and Hoy Law Firm](https://collinshoy.com/)<br />
+[Owner Breeder Magazine](https://theownerbreeder.com/)<br />
+[Farm Locations](https://farmlocations.co.uk/)<br />
+[Managed LEI](https://managedlei.com/)<br />
+[Bio Pellet Solutions](https://biopelletsolutions.co.uk/)<br />
+[Supplement Factory](https://supplementfactoryuk.com/)<br />
+[SPIO Insurance](https://stopputtingitoff.co.uk)<br />
