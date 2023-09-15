@@ -20,8 +20,7 @@ I've worked with a number of well-known companies and individuals including but 
 The following are up-to-date links to projects I've completed. Note: The list is incomplete.
 
 ## Side Projects
-https://tex0gen.github.io/spotiset/<br />
-https://fortnite1v1.me/
+[Spotiset - Get Live DJ setlists to a Spotify playlist](https://tex0gen.github.io/spotiset/)
 
 ## Freelance
 [Sync Global Agency](https://wearesync.global)<br />
