@@ -11,10 +11,12 @@ I've worked with a number of well-known companies and individuals including but 
 # Technologies
 - HTML
 - CSS (SASS/LESS)
+- PHP
 - Javascript
 - NodeJS
 - ReactJS
 - React Native
+- Laravel/Lumen
 
 # Portfolio of Work
 The following are up-to-date links to projects I've completed. Note: The list is incomplete.
